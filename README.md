@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Chayma</h1>
 <h3 align="center">A Data science researcher</h3>
 
-- I’m currently working on an **My Master's Thesis in anomaly  detection with machine learning, specifically with Graph Neural Networks**
+- I’m currently working on **My Master's Thesis in anomaly  detection with machine learning, specifically with Graph Neural Networks**
 
 - These days i'm trying to learn **MLops and working on enhance my skills in data science**
 
