@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Chayma</h1>
+<h1 align="center">I'm Chayma</h1>
 <h3 align="center">A Data science researcher</h3>
 
 - I’m currently working on **My Master's Thesis in anomaly  detection with machine learning, specifically with Graph Neural Networks**
