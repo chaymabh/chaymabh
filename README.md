@@ -6,29 +6,17 @@
 - Bachelor's Degree in Computer Science and Communication
 
 🔬 **Research**
-- 📝 Master's Thesis: Anomaly Detection with Machine Learning, specializing in Graph Neural Networks (NARD Intelligence, 05/2022 - 06/2023)
+- 📝 My data science journey revolves around understanding the intricate world of data and deriving meaningful insights from it. In my Master's Thesis, I delved deep into Anomaly Detection, specializing in the fascinating realm of Graph Neural Networks, where data becomes a canvas for discovering hidden patterns. 
 
-👨‍💼 **Work Experience**
-- 💼 Artificial Intelligence Engineer at NARD Intelligence (10/2022 - Present)
-  - Designing and developing AI models
-  - Implementing web scraping techniques
-  - Developing and deploying machine learning models
+👨‍💼 **Hands-On Data Adventures**
+- 💼 My professional voyage in data science has been a thrilling adventure. As an Artificial Intelligence Engineer at NARD Intelligence, I shape AI models to solve real-world puzzles, harvest knowledge through data visualization, and bring machine learning solutions to life. 
 
-- 💼 Machine Learning Intern at Meducol (03/2022 - 06/2022)
-  - Developed NLP models for extracting insights from medical data
-  - Designed and deployed web scraping solutions for data collection
-  - Applied data preprocessing techniques for cleaning and transformation
+- 💼 My previous roles as a Machine Learning Intern at Meducol and The Sparks Foundation allowed me to extract the secrets hidden in medical data, optimize computer vision algorithms, and make data-driven decisions. 
 
-- 💼 Machine Learning Intern at The Sparks Foundation (03/2022 - 04/2022)
-  - Developed and optimized machine learning algorithms for image processing and computer vision tasks
-  - Implemented data preprocessing techniques to handle noise, outliers, and missing values
+- 💼 During my time as a Computer Vision and IoT Intern at Aroteq, I forged a strong connection between IoT devices and the world of data, building intelligent data pipelines that opened new frontiers in analysis.
 
-- 💼 Computer Vision and IoT Intern at Aroteq (02/2020 - 06/2020)
-  - Designed and implemented data collection and preprocessing pipelines for IoT devices
-  - Developed algorithms for intelligent data filtering and feature extraction
-
-🌱 **Currently Learning**
-- MLops and advanced data science skills.
+🌱 **Constantly Evolving**
+- Currently, I'm immersing myself in MLops and honing my data science skills to continue this thrilling expedition.
 
 💬 **Ask me about**
 - Python, Machine learning, PyTorch, and Artificial Intelligence.
