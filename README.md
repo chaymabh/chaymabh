@@ -33,22 +33,26 @@ I am passionate about driving innovation through AI and leveraging state-of-the-
 
 ## 🔬 Research & Technical Expertise
 ✅ **LLMs & NLP**: Development of **custom GPT models**, fine-tuning **Transformer architectures**, optimization for **low-latency inference**.
+
 ✅ **Graph AI & GNNs**: Knowledge graph construction, GNN-based **semantic search**, AI-driven recommendation systems.
+
 ✅ **Machine Learning & Deep Learning**: Advanced ensemble learning, CNNs, YOLO, **Bayesian ML, XGBoost**.
+
 ✅ **Data Engineering & Databases**: **Real-time AI pipelines**, NoSQL & SQL databases, **stream processing with Kafka**.
+
 ✅ **Cloud & DevOps**: **High-performance computing (HPC)** for AI workloads, model compression, **multi-cloud strategies**.
 
 
 
 ## 👨‍💻 Professional Experience
 
-### **🔹 Lead AI Engineer | [iTransform365](https://itransform365.com/)**  *(Jan 2024 – Present)*
+### **🔹 Data Scientist | [iTransform365](https://itransform365.com/)**  *(Jan 2024 – Present)*
 - Architected and deployed **scalable, production-ready AI models** using **FastAPI & Flask**.
 - Engineered **state-of-the-art LLM pipelines**, integrating **LangChain & Elasticsearch** to enhance retrieval-augmented generation (RAG).
-- Designed **graph-based retrieval systems** that reduced search latency by **40%**.
+- Designed **graph-based retrieval systems** that reduced search latency by **20%**.
 - Optimized **GPU utilization** on **AWS & OVH Cloud**, cutting model inference time by **25%**.
-- Built **self-learning AI agents** using **LangChain**, improving automation efficiency by **50%**.
-- Implemented **multi-cloud AI deployment strategies**, reducing operational costs by **30%**.
+- Built **AI agents** using **LangGraph**, improving automation efficiency by **30%**.
+- Implemented **multi-cloud AI deployment strategies**, reducing operational costs by **10%**.
 
 ### **🔹 AI Research Engineer | | [NARD Intelligence](https://www.nard-intelligence.net/)**  *(Oct 2022 – Nov 2023)*
 - Developed **BERT-based NLP pipelines** for **text classification and document analysis**.
@@ -58,8 +62,8 @@ I am passionate about driving innovation through AI and leveraging state-of-the-
 - Applied **LLM embeddings** for **enhanced information retrieval and ranking systems**.
 
 ### **🔹 Machine Learning Researcher (Master’s Thesis) | [ISTIC Borj-Cedria](http://www.istic.rnu.tn/fr/)**  *(May 2022 – June 2023)*
-- Designed a **GNN-based anomaly detection framework**, improving detection rates by **18%**.
-- Applied **self-supervised learning techniques** to **enhance low-resource AI model performance**.
+- Designed a **GNN-based anomaly detection framework**, improving detection rates.
+- Applied **supervised learning techniques** to **enhance low-resource AI model performance**.
 - Optimized **edge-node embeddings in graph networks** for anomaly classification.
 
 
@@ -77,9 +81,7 @@ I am passionate about driving innovation through AI and leveraging state-of-the-
 ## 🏆 Certifications
 📜 **AI Analyst** – IBM  
 📜 **Big Data Engineer** – IBM  
-📜 **Machine Learning & AI Specialization** – Kaggle, Le Wagon Dubai  
-📜 **Advanced Python for AI Development** – Udemy  
-
+📜 **Machine Learning & AI Specialization** – Kaggle
 
 
 ## 🔥 What I’m Currently Exploring
