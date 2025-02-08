@@ -1,14 +1,12 @@
-# Chayma Elbahri  
-### **AI & Data Scientist | Machine Learning Engineer **
+<h1 align="center">Chayma Elbahri</h1>
+<h3 align="center">AI & Data Scientist | Machine Learning Engineer </h3>
 
----
 
 ## 🚀 About Me  
 I'm a **Data Scientist & AI Engineer** with expertise in **Machine Learning**, **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, and **Natural Language Processing (NLP)**. I specialize in **fine-tuning AI models**, developing **graph-based retrieval systems**, and deploying **scalable ML solutions**.  
 
 I am passionate about **cutting-edge AI research and its industrial applications**. My toolkit includes **TensorFlow**, **PyTorch**, **Elasticsearch**, **LangChain**, and **MLOps** tools, ensuring effective AI model deployment and real-time data processing.
 
----
 
 ## 🎓 Education  
 
@@ -20,7 +18,7 @@ I am passionate about **cutting-edge AI research and its industrial applications
   [Higher Institute of Information and Communication Technologies (ISTIC)](http://www.istic.rnu.tn/fr/)  
   *(2017 – 2020)*
 
----
+
 
 ## 🔬 Research & Technical Expertise  
 
@@ -30,7 +28,7 @@ I am passionate about **cutting-edge AI research and its industrial applications
 - **Data Engineering**: Data preprocessing, feature engineering, cloud-based AI solutions  
 - **MLOps & Deployment**: FastAPI, Flask, AWS, OVH, model deployment pipelines
 
----
+
 
 ## 👨‍💻 Professional Experience  
 
@@ -59,7 +57,7 @@ I am passionate about **cutting-edge AI research and its industrial applications
 - **The Sparks Foundation (Computer Vision)** *(Mar 2022 – Apr 2022)* – Built ML models for image processing tasks.  
 - **Aroteq (IoT & Computer Vision)** *(Feb 2020 – June 2020)* – Developed **IoT data pipelines** for AI applications.
 
----
+
 
 ## 🔥 What I’m Currently Exploring  
 
@@ -67,7 +65,7 @@ I am passionate about **cutting-edge AI research and its industrial applications
 🚀 **Graph AI & GNNs** – Expanding the applications of **Graph Neural Networks**  
 🚀 **MLOps & Deployment** – Automating **AI pipelines** & scaling **ML models** in production  
 
----
+
 
 ## 💬 Ask Me About  
 
@@ -76,7 +74,6 @@ I am passionate about **cutting-edge AI research and its industrial applications
 - **Graph AI & Knowledge Graphs**: **GNNs**, **AI-driven retrieval systems**  
 - **MLOps & Cloud AI**: **AWS**, **Model Deployment**, **Real-Time AI APIs**  
 
----
 
 ## 🛠️ Skills & Technologies  
 <p align="center">
@@ -90,6 +87,15 @@ I am passionate about **cutting-edge AI research and its industrial applications
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Elasticsearch_logo.svg" alt="elasticsearch" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Langchain_logo.svg" alt="langchain" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Kibana_logo.svg" alt="kibana" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Neo4j_logo.svg" alt="neo4j" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Postgresql_elephant.svg" alt="postgresql" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Llama_Index_logo.svg" alt="llama_index" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/OpenAI_Logo.svg" alt="openai" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Mistral_logo.svg" alt="mistral" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/FastAPI_logo.svg" alt="fastapi" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Flask_logo.svg" alt="flask" width="50" height="50" />
 </p>
 
----
