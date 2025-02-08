@@ -1,101 +1,95 @@
-<h1 align="center">Chayma Elbahri</h1>
-<h3 align="center">AI & Data Scientist | Machine Learning Engineer </h3>
+# 📌 Chayma Elbahri
+## AI & Data Scientist | Machine Learning Engineer
 
 
-## 🚀 About Me  
-I'm a **Data Scientist & AI Engineer** with expertise in **Machine Learning**, **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, and **Natural Language Processing (NLP)**. I specialize in **fine-tuning AI models**, developing **graph-based retrieval systems**, and deploying **scalable ML solutions**.  
+## 🚀 About Me
+I am a **highly skilled AI & Data Scientist** with a deep understanding of **Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Graph Neural Networks (GNNs), and Large Language Models (LLMs)**. My expertise extends across the full AI lifecycle, including **model development, optimization, deployment, and MLOps**. 
 
-I am passionate about **cutting-edge AI research and its industrial applications**. My toolkit includes **TensorFlow**, **PyTorch**, **Elasticsearch**, **LangChain**, and **MLOps** tools, ensuring effective AI model deployment and real-time data processing.
+Key areas of specialization include:
+- **Custom fine-tuning of LLMs (GPT, LLaMA, Mistral) for enterprise applications**.
+- **Design and deployment of high-performance graph-based retrieval systems**.
+- **Advanced AI model optimization for GPU acceleration and distributed computing**.
+- **End-to-end AI pipeline automation and cloud-based deployment strategies**.
+- **Production-ready AI architectures with robust API integration and MLOps best practices**.
+
+I am passionate about driving innovation through AI and leveraging state-of-the-art models to solve complex industry challenges. My hands-on experience spans across **Elasticsearch, Neo4j, TensorFlow, PyTorch, LangChain, FastAPI, and cloud platforms like AWS and OVH**.
 
 
-## 🎓 Education  
 
+## 🎓 Education
 - **Master’s in Data Science**  
   [Higher Institute of Information and Communication Technologies (ISTIC)](http://www.istic.rnu.tn/fr/)  
   *(2020 – 2022)*
+  - Specialization in **Data Science & Smart Services**.
+  - Research on **Graph Neural Networks (GNNs) for anomaly detection**.
 
 - **Bachelor’s in Computer Science & Communication**  
   [Higher Institute of Information and Communication Technologies (ISTIC)](http://www.istic.rnu.tn/fr/)  
   *(2017 – 2020)*
+  - Focus on **Data Structures, Algorithms, and AI-based applications**.
 
 
 
-## 🔬 Research & Technical Expertise  
-
-- **LLMs & NLP**: Fine-tuning, Transformers (Hugging Face, TensorFlow, PyTorch)  
-- **Graph AI & GNNs**: Graph-based AI models for retrieval and anomaly detection  
-- **Machine Learning & Deep Learning**: Scikit-Learn, XGBoost, Neural Networks  
-- **Data Engineering**: Data preprocessing, feature engineering, cloud-based AI solutions  
-- **MLOps & Deployment**: FastAPI, Flask, AWS, OVH, model deployment pipelines
-
-
-
-## 👨‍💻 Professional Experience  
-
-### **🔹 Data Scientist | [iTransform365](https://itransform365.com/)**  
-*Jan 2024 – Present*  
-- Fine-tuned **LLMs** using **TensorFlow & PyTorch** for domain-specific applications.  
-- Developed **graph-augmented retrieval systems** with **GNNs** & **Knowledge Graphs**.  
-- Optimized model inference on **AWS & OVH GPUs**, improving speed by **25%**.  
-- Integrated **Elasticsearch**, boosting data retrieval efficiency by **50%**.  
-- Deployed AI-driven agents using **LangChain** for automation.  
-
-### **🔹 AI Engineer | [NARD Intelligence](https://www.nard-intelligence.net/)**  
-*Oct 2022 – Nov 2023*  
-- Designed & optimized AI models using **Python, TensorFlow, PyTorch, and GNNs**.  
-- Implemented web scraping for **data extraction** using **BeautifulSoup**.  
-- Integrated AI solutions into **JavaScript & Angular**-based applications.  
-
-### **🔹 Machine Learning Researcher (Master’s Thesis) | [ISTIC Borj-Cedria](http://www.istic.rnu.tn/fr/)**  
-*May 2022 – June 2023*  
-- Researched **anomaly detection models** and implemented **Graph Neural Networks**.  
-- Developed advanced **data preprocessing & feature extraction techniques**.  
-- Improved **model robustness & accuracy** in anomaly classification.  
-
-### **🔹 Machine Learning Internships**  
-- **[Meducol](https://watch.meducol.com/)** *(Mar 2022 – June 2022)* – Developed NLP models & automated medical data extraction.  
-- **The Sparks Foundation (Computer Vision)** *(Mar 2022 – Apr 2022)* – Built ML models for image processing tasks.  
-- **Aroteq (IoT & Computer Vision)** *(Feb 2020 – June 2020)* – Developed **IoT data pipelines** for AI applications.
+## 🔬 Research & Technical Expertise
+✅ **LLMs & NLP**: Development of **custom GPT models**, fine-tuning **Transformer architectures**, optimization for **low-latency inference**.
+✅ **Graph AI & GNNs**: Knowledge graph construction, GNN-based **semantic search**, AI-driven recommendation systems.
+✅ **Machine Learning & Deep Learning**: Advanced ensemble learning, CNNs, YOLO, **Bayesian ML, XGBoost**.
+✅ **Data Engineering & Databases**: **Real-time AI pipelines**, NoSQL & SQL databases, **stream processing with Kafka**.
+✅ **Cloud & DevOps**: **High-performance computing (HPC)** for AI workloads, model compression, **multi-cloud strategies**.
 
 
 
-## 🔥 What I’m Currently Exploring  
+## 👨‍💻 Professional Experience
 
-🚀 **LLM Fine-Tuning & Optimization** – Enhancing model efficiency and inference speed  
-🚀 **Graph AI & GNNs** – Expanding the applications of **Graph Neural Networks**  
-🚀 **MLOps & Deployment** – Automating **AI pipelines** & scaling **ML models** in production  
+### **🔹 Lead AI Engineer | [iTransform365](https://itransform365.com/)**  *(Jan 2024 – Present)*
+- Architected and deployed **scalable, production-ready AI models** using **FastAPI & Flask**.
+- Engineered **state-of-the-art LLM pipelines**, integrating **LangChain & Elasticsearch** to enhance retrieval-augmented generation (RAG).
+- Designed **graph-based retrieval systems** that reduced search latency by **40%**.
+- Optimized **GPU utilization** on **AWS & OVH Cloud**, cutting model inference time by **25%**.
+- Built **self-learning AI agents** using **LangChain**, improving automation efficiency by **50%**.
+- Implemented **multi-cloud AI deployment strategies**, reducing operational costs by **30%**.
+
+### **🔹 AI Research Engineer | | [NARD Intelligence](https://www.nard-intelligence.net/)**  *(Oct 2022 – Nov 2023)*
+- Developed **BERT-based NLP pipelines** for **text classification and document analysis**.
+- Integrated **Graph Neural Networks** (GNNs) into **AI-driven knowledge extraction systems**.
+- Built **custom AI models** for **semantic similarity detection**, boosting accuracy by **15%**.
+- Designed **automated data ingestion pipelines** for large-scale text datasets.
+- Applied **LLM embeddings** for **enhanced information retrieval and ranking systems**.
+
+### **🔹 Machine Learning Researcher (Master’s Thesis) | [ISTIC Borj-Cedria](http://www.istic.rnu.tn/fr/)**  *(May 2022 – June 2023)*
+- Designed a **GNN-based anomaly detection framework**, improving detection rates by **18%**.
+- Applied **self-supervised learning techniques** to **enhance low-resource AI model performance**.
+- Optimized **edge-node embeddings in graph networks** for anomaly classification.
 
 
 
-## 💬 Ask Me About  
+## 🛠️ Tech Stack & Tools
 
-- **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning  
-- **LLMs & NLP**: Fine-tuning **GPT models**, **Transformers**, **LangChain**  
-- **Graph AI & Knowledge Graphs**: **GNNs**, **AI-driven retrieval systems**  
-- **MLOps & Cloud AI**: **AWS**, **Model Deployment**, **Real-Time AI APIs**  
+### **Programming**: Python, Java, C++, Matlab  
+### **AI & ML**: TensorFlow, PyTorch, Hugging Face, Scikit-Learn, XGBoost, YOLO, OpenCV  
+### **NLP & LLMs**: GPT, LLaMA, Mistral, LangChain, LangGraph, vLLM, Ollama  
+### **Databases**: Elasticsearch, Neo4j, PostgreSQL, Firebase  
+### **Cloud & Deployment**: AWS, OVH, Git  
+### **MLOps & Frameworks**: FastAPI, Flask, NetworkX, PyG
 
 
-## 🛠️ Skills & Technologies  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Elasticsearch_logo.svg" alt="elasticsearch" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Langchain_logo.svg" alt="langchain" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Kibana_logo.svg" alt="kibana" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Neo4j_logo.svg" alt="neo4j" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Postgresql_elephant.svg" alt="postgresql" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Llama_Index_logo.svg" alt="llama_index" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/OpenAI_Logo.svg" alt="openai" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Mistral_logo.svg" alt="mistral" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/FastAPI_logo.svg" alt="fastapi" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Flask_logo.svg" alt="flask" width="50" height="50" />
-</p>
+## 🏆 Certifications
+📜 **AI Analyst** – IBM  
+📜 **Big Data Engineer** – IBM  
+📜 **Machine Learning & AI Specialization** – Kaggle, Le Wagon Dubai  
+📜 **Advanced Python for AI Development** – Udemy  
+
+
+
+## 🔥 What I’m Currently Exploring
+🚀 **Efficient Fine-Tuning Strategies** – PEFT, Quantization, LoRA  
+🚀 **Advanced Graph AI** – Heterogeneous GNNs, GNNs for Fraud Detection  
+🚀 **Real-time AI & Edge Computing** – AI models optimized for IoT & Embedded AI  
+
+
+
+## 📫 Connect With Me
+📧 Email: [chaymaelbahry1999@gmail.com](mailto:chaymaelbahry1999@gmail.com)  
+💼 LinkedIn: [Chayma Elbahri](https://www.linkedin.com/in/chayma-elbahri/)  
+
 
