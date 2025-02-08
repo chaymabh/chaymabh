@@ -6,14 +6,14 @@
 I am a Data Scientist with a strong passion for Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Graph Neural Networks (GNNs), and Large Language Models (LLMs). My goal is to develop practical AI solutions that drive real-world impact.
 
 My experience includes:
-- **Custom fine-tuning of LLMs (GPT, LLaMA, Mistral) for enterprise applications**.
+- **Custom fine-tuning of LLMs ( LLaMA, Mistral) for enterprise applications**.
 - **Design and deployment of high-performance graph-based retrieval systems**.
 - **Advanced AI model optimization for GPU acceleration and distributed computing**.
 - **End-to-end AI pipeline automation and cloud-based deployment strategies**.
 - **Production-ready AI architectures with robust API integration and MLOps best practices**.
 
 I enjoy collaborating on challenging projects and continuously learning about advancements in AI and machine learning. 
-I am passionate about driving innovation through AI and leveraging state-of-the-art models to solve complex industry challenges. My hands-on experience spans across **Elasticsearch, Neo4j, TensorFlow, PyTorch, LangChain, FastAPI, and cloud platforms like AWS and OVH**.
+I am passionate about driving innovation through AI and leveraging state-of-the-art models to solve complex industry challenges.
 
 
 
