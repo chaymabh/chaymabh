@@ -27,7 +27,7 @@ I am passionate about driving innovation through AI and leveraging state-of-the-
   *(2017 – 2020)*
   - Focus on **Data Structures, Algorithms, and AI-based applications**.
 
-## 🔬 Research & Technical Expertise
+## 🔬 Technical Expertise
 ✅ **LLMs & NLP**: Development of **custom GPT models**, fine-tuning **Transformer architectures**, optimization for **low-latency inference**.
 
 ✅ **Graph AI & GNNs**: Knowledge graph construction, GNN-based **semantic search**, AI-driven recommendation systems.
@@ -47,14 +47,6 @@ I am passionate about driving innovation through AI and leveraging state-of-the-
 ### **Databases**: Elasticsearch, Neo4j, PostgreSQL, Firebase  
 ### **Cloud & Deployment**: AWS, OVH, Git  
 ### **MLOps & Frameworks**: FastAPI, Flask, NetworkX, PyG
-
-
-## 🔥 What I’m Currently Exploring
-🚀 **Efficient Fine-Tuning Strategies** – PEFT, Quantization, LoRA  
-🚀 **Advanced Graph AI** – Heterogeneous GNNs, GNNs for Fraud Detection  
-🚀 **Real-time AI & Edge Computing** – AI models optimized for IoT & Embedded AI  
-
-
 
 ## 📫 Connect With Me
 📧 Email: [chaymaelbahry1999@gmail.com](mailto:chaymaelbahry1999@gmail.com)  
