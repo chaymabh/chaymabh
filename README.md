@@ -22,9 +22,9 @@ Location: Munich, Germany | Email: chayma.el.bahri.w@gmail.com
 | **Agentic AI & LLMs** | LangGraph, LangChain, LlamaIndex, vLLM, Ollama, Hugging Face |
 | **Graph AI & Analytics** | PyTorch Geometric (PyG), Deep Graph Library (DGL), NetworkX, Neo4j |
 | **Core ML & Vision** | PyTorch, TensorFlow, Scikit-Learn, XGBoost, OpenCV, YOLO |
-| **Data & Databases** | PostgreSQL, Elasticsearch, MongoDB, Apache Kafka |
+| **Data & Databases** | PostgreSQL, Elasticsearch, MongoDB|
 | **Backend & Cloud** | FastAPI, Flask, AWS, OVH, Git, Linux |
-| **Languages** | Python, R, C++, Java, MATLAB |
+| **Languages** | Python, C++, Java, MATLAB |
 
 ---
 
