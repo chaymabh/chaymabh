@@ -1,55 +1,52 @@
-# 📌 Chayma Elbahri
-## Data Scientist | Machine Learning Engineer
+### Data Scientist | LLMs, Graph AI & Agentic Systems
+Location: Munich, Germany | Email: chaymaelbahry1999@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayma-elbahri/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaymaelbahry1999@gmail.com)
+[![View CV](https://img.shields.io/badge/View_PDF_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/chaymabh/chaymabh/raw/main/CV.pdf)
 
-## 🚀 About Me
-I am a Data Scientist with a strong passion for Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Graph Neural Networks (GNNs), and Large Language Models (LLMs). My goal is to develop practical AI solutions that drive real-world impact.
+---
 
-My experience includes:
-- **Custom fine-tuning of LLMs ( LLaMA, Mistral) for enterprise applications**.
-- **Design and deployment of high-performance graph-based retrieval systems**.
-- **Advanced AI model optimization for GPU acceleration and distributed computing**.
-- **End-to-end AI pipeline automation and cloud-based deployment strategies**.
-- **Production-ready AI architectures with robust API integration and MLOps best practices**.
+### Core Competencies
 
-I enjoy collaborating on challenging projects and continuously learning about advancements in AI and machine learning. 
-I am passionate about driving innovation through AI and leveraging state-of-the-art models to solve complex industry challenges.
+* **Agentic AI & LLM Engineering**: Architecting multi-agent production pipelines using **LangGraph** and **LangChain** for complex task orchestration. Serving fine-tuned open-source language models via **vLLM**, **Ollama**, and **Hugging Face Transformers**.
+* **Graph Machine Learning**: Designing Graph Neural Network architectures (**GraphSAGE**, **GAT**, **GCN**) for anomaly detection and structural graph pattern analysis using **PyTorch Geometric (PyG)** and **DGL**.
+* **Data & Search Systems**: Structuring multi-modal data strategies across graph stores (**Neo4j**), search engines (**Elasticsearch**), and relational systems (**PostgreSQL**).
+* **MLOps & Backend Infrastructure**: Building low-latency RESTful APIs with **FastAPI** and **Flask**, and deploying end-to-end ML services on **AWS** and **OVH** cloud infrastructure.
 
-## 🎓 Education
-- **Master’s in Data Science**  
-  [Higher Institute of Information and Communication Technologies (ISTIC)](http://www.istic.rnu.tn/fr/)  
-  *(2020 – 2022)*
-  - Specialization in **Data Science & Smart Services**.
-  - Research on **Graph Neural Networks (GNNs) for anomaly detection**.
+---
 
-- **Bachelor’s in Computer Science & Communication**  
-  [Higher Institute of Information and Communication Technologies (ISTIC)](http://www.istic.rnu.tn/fr/)  
-  *(2017 – 2020)*
-  - Focus on **Data Structures, Algorithms, and AI-based applications**.
+### Technical Stack
 
-## 🔬 Technical Expertise
-✅ **LLMs & NLP**: Development of **custom GPT models**, fine-tuning **Transformer architectures**, optimization for **low-latency inference**.
+| Domain | Technologies |
+| :--- | :--- |
+| **Agentic AI & LLMs** | LangGraph, LangChain, LlamaIndex, vLLM, Ollama, Hugging Face |
+| **Graph AI & Analytics** | PyTorch Geometric (PyG), Deep Graph Library (DGL), NetworkX, Neo4j |
+| **Core ML & Vision** | PyTorch, TensorFlow, Scikit-Learn, XGBoost, OpenCV, YOLO |
+| **Data & Databases** | PostgreSQL, Elasticsearch, MongoDB, Apache Kafka |
+| **Backend & Cloud** | FastAPI, Flask, AWS, OVH, Git, Linux |
+| **Languages** | Python, R, C++, Java, MATLAB |
 
-✅ **Graph AI & GNNs**: Knowledge graph construction, GNN-based **semantic search**, AI-driven recommendation systems.
+---
 
-✅ **Machine Learning & Deep Learning**: Advanced ensemble learning, CNNs, YOLO, **Bayesian ML, XGBoost**.
+### Technical Accomplishments & Applied Experience
 
-✅ **Data Engineering & Databases**: **Real-time AI pipelines**, NoSQL & SQL databases, **stream processing with Kafka**.
+#### Autonomous Multi-Agent Workflows
+* Developed multi-agent orchestration pipelines using **LangGraph** to process complex, multi-step business logic.
+* Automated data validation routines and error handling across heterogeneous data sources.
 
-✅ **Cloud & DevOps**: **High-performance computing (HPC)** for AI workloads, model compression, **multi-cloud strategies**.
+#### Graph Neural Networks & Anomaly Detection
+* Conducted specialized research on GNN architectures for robust structural anomaly detection.
+* Engineered feature extraction pipelines and graph embeddings to enhance classification performance on complex topologies.
 
+#### Production Model Serving
+* Deployed microservices for real-time inference using **FastAPI** and **Flask** on cloud infrastructure.
+* Implemented path optimization algorithms ($A^*$ and Dijkstra) and vision tracking modules for automated systems.
 
-## 🛠️ Tech Stack & Tools
+---
 
-### **Programming**: Python, Java, C++, Matlab  
-### **AI & ML**: TensorFlow, PyTorch, Hugging Face, Scikit-Learn, XGBoost, YOLO, OpenCV  
-### **NLP & LLMs**: GPT, LLaMA, Mistral, LangChain, LangGraph, vLLM, Ollama  
-### **Databases**: Elasticsearch, Neo4j, PostgreSQL, Firebase  
-### **Cloud & Deployment**: AWS, OVH, Git  
-### **MLOps & Frameworks**: FastAPI, Flask, NetworkX, PyG
-
-## 📫 Connect With Me
-📧 Email: [chaymaelbahry1999@gmail.com](mailto:chaymaelbahry1999@gmail.com)  
-💼 LinkedIn: [Chayma Elbahri](https://www.linkedin.com/in/chayma-elbahri/)  
-
-
+### Languages
+* **English**: Advanced (C1)
+* **German**: Beginner (A1)
+* **French**: Moderate (B2)
+* **Arabic**: Native
