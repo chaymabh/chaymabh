@@ -3,7 +3,6 @@ Location: Munich, Germany | Email: chaymaelbahry1999@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayma-elbahri/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaymaelbahry1999@gmail.com)
-[![View CV](https://img.shields.io/badge/View_PDF_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/chaymabh/chaymabh/raw/main/CV.pdf)
 
 ---
 
